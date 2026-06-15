@@ -1,0 +1,14 @@
+{
+  "name": "ThisBeatIzBananaz",
+  "short_name": "TBIB",
+  "description": "The dopest beat shop on the internet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#8BFF00",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/logo.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
